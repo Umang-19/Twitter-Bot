@@ -7,7 +7,7 @@ A twitter bot who retweets #100daysofcodewithGFG.
 - Node.JS
 - Twitter API 
 - Heroku (Deployment)
-## Authors
+## Author
 
 - [@Umang](https://www.github.com/Umang-19)
 
