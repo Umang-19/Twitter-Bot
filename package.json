@@ -1,0 +1,19 @@
+{
+  "name": "gfgbot",
+  "version": "1.0.0",
+  "description": "This is bot who retweets gfg hashtags",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gfg",
+    "geeksforgeeks"
+  ],
+  "author": "Umang",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.11"
+  }
+}
