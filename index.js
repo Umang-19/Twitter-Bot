@@ -14,7 +14,7 @@ console.log("Welcome to Umang's Bot");
 
 function retweet() 
 {
-    let params = { q:'#100daysofcodewithGFG', result_type:'recent', count:20 }
+    let params = { q:'#100daysofcodewithGFG', count:200 }
 
     T.get('search/tweets', params, gotData);
 
