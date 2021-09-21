@@ -1,7 +1,7 @@
 
 # Twitter Bot
 
-A twitter bot who retweets #100daysofcodewithGFG.
+A twitter bot who retweets #100daysofcodewithGFG made with :heart:
 
 # Tech Stack
 - Node.JS
